@@ -1,0 +1,24 @@
+{
+  "name": "aw1-weeks-2025",
+  "version": "1.0.0",
+  "description": "Esercizi ed esempi sviluppati durante le ore in aula del corso.",
+  "homepage": "https://github.com/TridelTaxis/aw1-weeks-2025#readme",
+  "bugs": {
+    "url": "https://github.com/TridelTaxis/aw1-weeks-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TridelTaxis/aw1-weeks-2025.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "sqlite3": "^5.1.7"
+  }
+}
